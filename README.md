@@ -23,6 +23,38 @@ Various aspects of the company’s sales transaction data generated over the pas
 
 We seek to identify Top performing customers, products, channels of sales , region , trends, and the overall performance of the company , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance. 
 
+__SALES PERFORMANCE BY CUSTOMERS (CUSTOMER BEHAVIOUR)__ <br> <br>
+
+
+![customers_behaviour_ss](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/162923747/df7f835f-85e1-44ab-90e3-350ef4ab0d81) <br> <br>
+
+
+
+__SALES PERFORMANCE BY CHANNELS__ <br> <br>
+
+
+
+![sales_by_channel_ss](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/162923747/b6223cf6-c56f-44ab-b6c3-c7129cf33d45) <br> <br>
+
+
+
+__SALES PERFORMANCE BY REGIONS OF BUSINESS OPERATIONS__ <br> <br>
+
+
+
+![sales_by_region_ss](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/162923747/f84f0c34-e8c0-4e56-8d45-3b170c39263a) <br> <br>
+
+
+
+__SALES TREND OVER THE YEARS__ <br> <br>
+
+
+
+![sales_trends_over_the_years](https://github.com/data-scholar-emma/Sales_Performance_Analysis_for_a_Telecom_Company_USA/assets/162923747/291b54d4-85c9-4ffe-90c5-a2f1a19f7199) <br> <br>
+
+
+
+
 ## Data Sources
 Sales Transaction Data : The primary dataset used for this data analysis project was sales transaction data, containing detailed information about each sales made by the company , and was extracted from the company’s database using SQL codes. 
 
