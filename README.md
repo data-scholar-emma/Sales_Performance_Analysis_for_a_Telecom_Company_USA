@@ -182,6 +182,7 @@ Based on the findings/results of this  data analysis project, I strongly  recomm
 3. The company should implement a customer segmentation strategy to target __smartphones and smartwatches customers__ effectively.
 4. The company should allocate more budget and resources to their __Direct__ sales channel to maximise revenue.
 5. The company should invest more resources  in their __Northeast Region of operation__  to maximise revenue.
+6. The Company should restrategize on how to tackle and mitigate the present decline in sales. 
    
 
 
